@@ -1,1 +1,1 @@
-Readmi de Diego Ferreiro Gómez
+Readme de Diego Ferreiro Gómez
